@@ -1,10 +1,21 @@
-## 👋 Hi, I'm Thomas 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm Thomas 
 
 `Software Engineer (Web Developer/Mobile Developer)`
 
-Hey there! I’m a full-stack developer with a passion for crafting responsive, user-friendly applications. I mainly work with React, React Native, JavaScript, and TypeScript on the frontend, and Symfony on the backend to build solid, scalable solutions.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-kanzig/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://thomaskanzig.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/thomaskaenzig)
 
-Always learning, always improving, and always up for new challenges! Whether it’s a new technology, a tricky problem to solve, or an exciting project, I’m eager to dive in and grow along the way. Let’s build something awesome! 🚀
+I’m a full-stack developer with a passion for crafting responsive, user-friendly applications. Always learning, always improving, and always up for new challenges! Whether it’s a new technology, a tricky problem to solve, or an exciting project, I’m eager to dive in and grow along the way. Let’s build something awesome! 🚀
+
+
+**Talking about personal Stuffs:**
+
+- 🔭 I’m currently working on something cool;
+- 🌱 I’m currently learning about [Next.js](https://nextjs.org/) and [React Native](https://reactnative.dev/);
+- 👯 I’m open to remote job opportunities;
+- 📫 Reach me at: [thomas.kanzig@gmail.com](thomas.kanzig@gmail.com)
+
 
 ---
 ### 🧰 Languages and Tools
@@ -30,6 +41,17 @@ Always learning, always improving, and always up for new challenges! Whether it�
 
 <br />
 <br />
+
+
+---
+### 📈 My GitHub Stats
+
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomaskanzig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaskanzig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
 
 
 <!--
