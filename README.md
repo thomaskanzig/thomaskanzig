@@ -18,11 +18,10 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 
 
 ---
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" title="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
@@ -32,8 +31,6 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 <img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Playwright" title="Playwright" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
 <img align="left" alt="NPM" title="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Symfony" title="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -44,13 +41,24 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 
 
 ---
-### 📈 My GitHub Stats
 
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomaskanzig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaskanzig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+### My Recent React Native App - Frases de Amor  
+
+A mobile application built with **React Native**, where users can browse and share romantic phrases, save favorites, and customize images with love messages.  
+
+### **✨ Features:**
+✔ Browse and share love phrases  
+✔ Save favorite messages  
+✔ Customize images with your own quotes  
+✔ Smooth and user-friendly interface  
+
+🎥 **Preview**  
+
+<img src="https://frases-de-amor.s3.eu-central-1.amazonaws.com/image/2025/03/frases_de_amor_presentation.gif" width="300" alt="Frases de Amor Demo" />
+
+📺 **Watch the Video Presentation:** [YouTube - Frases de Amor](https://www.youtube.com/watch?v=-Vx894IBMMs)  
+📲 **Download on Google Play:** [Android - Frases de Amor](https://play.google.com/store/apps/details?id=com.thomaskanzig.frasesamorosas)  
 
 
 
