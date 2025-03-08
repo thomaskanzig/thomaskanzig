@@ -55,7 +55,8 @@ A mobile application built with **React Native**, where users can browse and sha
 
 🎥 **Preview**  
 
-<img src="https://frases-de-amor.s3.eu-central-1.amazonaws.com/image/2025/03/frases_de_amor_presentation.gif" width="300" alt="Frases de Amor Demo" />
+![](https://frases-de-amor.s3.eu-central-1.amazonaws.com/image/2025/03/frases_de_amor_presentation.gif)  
+
 
 📺 **Watch the Video Presentation:** [YouTube - Frases de Amor](https://www.youtube.com/watch?v=-Vx894IBMMs)  
 📲 **Download on Google Play:** [Android - Frases de Amor](https://play.google.com/store/apps/details?id=com.thomaskanzig.frasesamorosas)  
