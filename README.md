@@ -57,6 +57,7 @@ A web application built with **React** on the frontend and a REST API with **Sym
 
 ![Speak with Native Preview](https://github.com/user-attachments/assets/770e98df-4d98-4f5e-a31c-91932ab3000b)
 
+📺 **Watch the Video Presentation:** [YouTube - Speak with Native](https://www.youtube.com/watch?v=odwf8GyZ4g4)  
 🔗 **Check it out:** [Speak with Native](https://speakwithnative.com/)  
 
 
