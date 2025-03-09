@@ -43,6 +43,26 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 ---
 
 
+### My Recent Website - Speak with Native  
+
+A web application built with **React** on the frontend and a REST API with **Symfony** on the backend, where users can engage in language exchange by finding a partner to practice and improve the language they are learning.
+
+### **✨ Features:**
+✔ Find language partners based on proficiency levels and shared interests  
+✔ Send messages and chat in real-time  
+✔ Schedule calls or chat sessions with your language partner  
+✔ Enjoy a smooth, user-friendly interface for seamless communication  
+
+🎥 **Preview**  
+
+![Speak with Native Preview](https://github.com/user-attachments/assets/770e98df-4d98-4f5e-a31c-91932ab3000b)
+
+🔗 **Check it out:** [Speak with Native](https://speakwithnative.com/)  
+
+
+---
+
+
 ### My Recent React Native App - Frases de Amor  
 
 A mobile application built with **React Native**, where users can browse and share romantic phrases, save favorites, and customize images with love messages.  
