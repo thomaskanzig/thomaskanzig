@@ -45,7 +45,8 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 
 ### My Recent Website - Speak with Native  
 
-A web application built with **React** on the frontend and a REST API with **Symfony** on the backend, where users can engage in language exchange by finding a partner to practice and improve the language they are learning.
+A web application built with **React** for the frontend and a **REST API** using **Symfony** for the backend.   
+Users can find language partners to practice and improve the language they are learning.
 
 ### **✨ Features:**
 ✔ Find language partners based on proficiency levels and shared interests  
