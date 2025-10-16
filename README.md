@@ -62,6 +62,7 @@ Users can find language partners to practice and improve the language they are l
 
 📺 **Watch the Video Presentation:** [YouTube - Speak with Native](https://www.youtube.com/watch?v=odwf8GyZ4g4)  
 🔗 **Check it out:** [Speak with Native](https://speakwithnative.com/)  
+📲 **Download on Google Play:** [Android - Speak with Native](https://play.google.com/store/apps/details?id=com.speakwithnative.app)  
 
 
 ---
