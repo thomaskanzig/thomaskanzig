@@ -12,7 +12,7 @@ I’m a full-stack developer with a passion for crafting responsive, user-friend
 **Talking about personal Stuffs:**
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning about [Next.js](https://nextjs.org/) and [React Native](https://reactnative.dev/);
+- 🌱 I’m currently learning about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI systems;
 - 👯 I’m open to remote job opportunities;
 - 📫 Reach me at: [thomas.kanzig@gmail.com](thomas.kanzig@gmail.com)
 
